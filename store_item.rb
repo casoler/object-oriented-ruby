@@ -50,4 +50,4 @@ dog3 =Dog.new name: 'chihuahua', group: 'toy', color: 'black', weight: 5, :sex =
 dog3.print_info
 puts dog3.name
 puts dog3.weight
-# dog3 = {name: 'chihuahua', group: 'toy', color: 'black', weight: 5, :sex => 'female'}
+
